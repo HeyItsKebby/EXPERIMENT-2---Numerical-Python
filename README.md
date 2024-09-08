@@ -1,4 +1,6 @@
 # EXPERIMENT-2---Numerical-Python
+Python script/code for the given problems: NORMALIZATION PROBLEM, DIVISIBLE BY 3 PROBLEM
+
 Instructions:
 Write a Python script/code in the Jupyter Notebook to do the given problems. You may submit your Jupyter
 notebook in the dedicated submission bin.
