@@ -12,11 +12,13 @@ In Python, element-wise mean and element-wise standard deviation can be obtained
 In this problem, create a random 5 x 5 ndarray and store it to variable X. Normalize X. Save your normalized ndarray as X_normalized.npy
 
 DIVISIBLE BY 3 PROBLEM: Create the following 10 x 10 ndarray which are the squares of the first 100 positive integers.
+
 𝐴 =
 [1 4 ⋯ 81 100
-⋮ ⋮ ⋱ ⋮ ⋮
-⋮ ⋮ ⋱ ⋮ ⋮
-⋮ ⋮ ⋱ ⋮ ⋮
+ ⋮ ⋮  ⋱  ⋮  ⋮
+ ⋮ ⋮  ⋱  ⋮  ⋮
+ ⋮ ⋮  ⋱  ⋮  ⋮
 8281 8464 ⋯ 9801 10000]
+
 From this ndarray, determine all the elements that are divisible by 3. Save the result as div_by_3.npy
 
